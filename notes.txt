@@ -3,7 +3,4 @@ Violets are blue
 Syntax error at line 42
 
 Summary:
-Get better
-
-Insight:
-Read the docs, and practice
+Get better or die trying
